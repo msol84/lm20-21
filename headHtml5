@@ -1,0 +1,16 @@
+<head>
+    <title> Titulo que aparece en la pestaña del navegador, etiqueta obligatoria</title>
+    <meta charset="UTF-8">
+               <!-- conjunto de caracteres para español-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+               <!-- diseña responsivo-->
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+              <!-- compatibilidad con Edge-->
+    <meta name="Author" content="Nombre del autor de la web">
+    <meta name="Description" content="Breve descripción del contenido de la Web">
+    <meta name="Keywords" content="palabras claves para la búsqueda, separadas por coma">
+    <link rel="shortcut icon" href=" dirección donde se aloja el icono, extension *.ico,png,gif"  type="image/x-icon">
+    <style>
+               etiqueta{propiedad:valor;}
+    </style>
+   </head>
